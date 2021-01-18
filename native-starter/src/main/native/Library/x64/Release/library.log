@@ -1,0 +1,14 @@
+﻿  Library.cpp
+     Creating library C:\Users\alext\git\native-base\src\main\native\x64\Release\Library.lib and object C:\Users\alext\git\native-base\src\main\native\x64\Release\Library.exp
+  Generating code
+  1 of 164 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  library.vcxproj -> C:\Users\alext\git\native-base\src\main\native\x64\Release\Library.dll
+  A subdirectory or file C:\Users\alext\git\native-base\src\main\native\Library\..\..\..\..\lib\Native already exists.
+  C:\Users\alext\git\native-base\src\main\native\x64\Release\Library.dll
+          1 file(s) copied.
+  A subdirectory or file C:\Users\alext\git\native-base\src\main\native\Library\..\..\..\..\target\classes\ already exists.
+  C:\Users\alext\git\native-base\src\main\native\x64\Release\Library.dll
+          1 file(s) copied.
